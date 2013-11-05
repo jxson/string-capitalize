@@ -1,6 +1,6 @@
 
-const assert = require('assert')
-const capitalize = require('./index.js')
+var assert = require('assert')
+  , capitalize = require('./index.js')
 
 describe('capitalize(string)', function(){
   it('capitalizes words', function(){
