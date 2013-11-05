@@ -6,4 +6,4 @@ release:
 	git push && git push --tags
 	npm publish
 
-.PHONY release
+.PHONY: release
