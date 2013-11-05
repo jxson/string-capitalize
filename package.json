@@ -1,6 +1,6 @@
 {
   "name": "string-capitalize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Capitalizes a string.",
   "main": "index.js",
   "scripts": {
@@ -25,10 +25,26 @@
     "files": "test-*.js",
     "harness": "mocha",
     "browsers": {
-      "ie": [ 6, 7, 8, 9, 10],
-      "ff": [ 24, 25 ],
-      "chrome": [ 28, 29, 30 ],
-      "safari": [ 6, 7 ]
+      "ie": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "ff": [
+        24,
+        25
+      ],
+      "chrome": [
+        28,
+        29,
+        30
+      ],
+      "safari": [
+        6,
+        7
+      ]
     }
   },
   "devDependencies": {
