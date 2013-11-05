@@ -1,8 +1,8 @@
 # string-capitalize [![Build Status](https://travis-ci.org/jxson/string-capitalize.png?branch=master)](https://travis-ci.org/jxson/string-capitalize)
 
-[![NPM](https://nodei.co/npm/string-capitalize.png)](https://nodei.co/npm/string-capitalize/)
-
 Capitalizes a string.
+
+[![NPM](https://nodei.co/npm/string-capitalize.png)](https://nodei.co/npm/string-capitalize/)
 
 I noticed that there was a TODO in [string.js][string-js-todo] to break things up into smaller modules so I thought I would help out.
 
