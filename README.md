@@ -4,6 +4,8 @@ Capitalizes a string.
 
 [![NPM](https://nodei.co/npm/string-capitalize.png)](https://nodei.co/npm/string-capitalize/)
 
+[![browser support](https://ci.testling.com/jxson/string-capitalize.png)](https://ci.testling.com/jxson/string-capitalize)
+
 I noticed that there was a TODO in [string.js][string-js-todo] to break things up into smaller modules so I thought I would help out.
 
 # Installation
