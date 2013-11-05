@@ -1,6 +1,6 @@
 {
   "name": "string-capitalize",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Capitalizes a string.",
   "main": "index.js",
   "scripts": {
