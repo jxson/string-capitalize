@@ -1,12 +1,14 @@
-# string-capitalize
+# string-capitalize [![Build Status](https://travis-ci.org/jxson/string-capitalize.png?branch=master)](https://travis-ci.org/jxson/string-capitalize)
 
 [![NPM](https://nodei.co/npm/string-capitalize.png)](https://nodei.co/npm/string-capitalize/)
 
 Capitalizes a string.
 
-[![Build Status](https://travis-ci.org/jxson/string-capitalize.png?branch=master)](https://travis-ci.org/jxson/string-capitalize)
-
 I noticed that there was a TODO in [string.js][string-js-todo] to break things up into smaller modules so I thought I would help out.
+
+# Installation
+
+    npm install string-capitalize
 
 # capitalize(string)
 
@@ -17,9 +19,11 @@ Capitalizes a string.
     capitalize('word up') // Word up
     capitalize('WORD UP') // Word up
 
-# Installation
+# Contributing
 
-    npm install string-capitalize
+Fork and send a PR. Where it makes sense make sure to add a test for your work.
+
+Feel free to report any [issues][].
 
 # LICENSE (MIT)
 
@@ -32,3 +36,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [string-js-todo]: https://github.com/jprichardson/string.js#roadmap-to-v20
+[issues]: https://github.com/jxson/string-capitalize/issues
