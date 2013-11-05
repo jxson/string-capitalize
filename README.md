@@ -12,8 +12,14 @@ I noticed that there was a TODO in [string.js][string-js-todo] to break things u
 
 Capitalizes a string.
 
+    var capitalize = require('string-capitalize')
+
     capitalize('word up') // Word up
     capitalize('WORD UP') // Word up
+
+# Installation
+
+    npm install string-capitalize
 
 # LICENSE (MIT)
 
